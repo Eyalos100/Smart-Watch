@@ -1,0 +1,89 @@
+Dependencies for Project 'menu', Target 'Smpl_ADC_Joystick': (DO NOT MODIFY !)
+F (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.c)(0x68D9480D)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\core_cm0.o --list_dir ".\\lst\\" --list --omf_browse .\obj\core_cm0.crf --depend .\obj\core_cm0.d)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+F (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.c)(0x68D9480D)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\system_nuc1xx.o --list_dir ".\\lst\\" --list --omf_browse .\obj\system_nuc1xx.crf --depend .\obj\system_nuc1xx.d)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+F (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\startup\arm\startup_NUC1xx.s)(0x68D9480E)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --16 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x--list .\lst\startup_nuc1xx.lst --xref -o .\obj\startup_nuc1xx.o --depend .\obj\startup_nuc1xx.d)
+F (.\menu.c)(0x68FFAD3C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\menu.o --list_dir ".\\lst\\" --list --omf_browse .\obj\menu.crf --depend .\obj\menu.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvGPIO.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvSYS.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvUART.h)(0x68D9480E)
+I (D:\Keil\ARM\ARMCC\include\math.h)(0x51C7FD94)
+I (..\..\..\Include\Driver\DrvADC.h)(0x68D9480E)
+I (Driver_I2C.h)(0x68EFA2AC)
+I (LCM1602_I2C.h)(0x68EFC52C)
+I (MPU6050.h)(0x68D94819)
+F (.\LCM1602_I2C.c)(0x68EFC519)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\lcm1602_i2c.o --list_dir ".\\lst\\" --list --omf_browse .\obj\lcm1602_i2c.crf --depend .\obj\lcm1602_i2c.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (..\..\..\Include\Driver\DrvSYS.h)(0x68D9480E)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+I (Driver_I2C.h)(0x68EFA2AC)
+I (LCM1602_I2C.h)(0x68EFC52C)
+F (.\Driver_I2C.c)(0x68EFC557)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\driver_i2c.o --list_dir ".\\lst\\" --list --omf_browse .\obj\driver_i2c.crf --depend .\obj\driver_i2c.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (..\..\..\Include\Driver\DrvSYS.h)(0x68D9480E)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvGPIO.h)(0x68D9480E)
+I (Driver_I2C.h)(0x68EFA2AC)
+I (LCM1602_I2C.h)(0x68EFC52C)
+I (MPU6050.h)(0x68D94819)
+F (..\..\..\Src\Driver\DrvGPIO.c)(0x68D9482A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\drvgpio.o --list_dir ".\\lst\\" --list --omf_browse .\obj\drvgpio.crf --depend .\obj\drvgpio.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvGPIO.h)(0x68D9480E)
+F (..\..\..\Src\Driver\DrvADC.c)(0x68D9482A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\drvadc.o --list_dir ".\\lst\\" --list --omf_browse .\obj\drvadc.crf --depend .\obj\drvadc.d)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvADC.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvSYS.h)(0x68D9480E)
+F (..\..\..\Src\Driver\DrvSYS.c)(0x68D9482A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\drvsys.o --list_dir ".\\lst\\" --list --omf_browse .\obj\drvsys.crf --depend .\obj\drvsys.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (..\..\..\Include\Driver\DrvSYS.h)(0x68D9480E)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+F (..\..\..\Src\Driver\DrvUART.c)(0x68D9482A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\ST\STM32F10x-o .\obj\drvuart.o --list_dir ".\\lst\\" --list --omf_browse .\obj\drvuart.crf --depend .\obj\drvuart.d)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x68D9480D)
+I (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h)(0x68D9480D)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7FD94)
+I (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x68D9480D)
+I (..\..\..\Include\System\SysInfra.h)(0x68D9480E)
+I (..\..\..\Include\System\ModuleID.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvUART.h)(0x68D9480E)
+I (..\..\..\Include\Driver\DrvSYS.h)(0x68D9480E)

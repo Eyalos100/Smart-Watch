@@ -1,0 +1,15 @@
+--cpu Cortex-M0
+".\obj\core_cm0.o"
+".\obj\system_nuc1xx.o"
+".\obj\startup_nuc1xx.o"
+".\obj\menu.o"
+".\obj\lcm1602_i2c.o"
+".\obj\driver_i2c.o"
+".\obj\drvgpio.o"
+".\obj\drvadc.o"
+".\obj\drvsys.o"
+".\obj\drvuart.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict
+--map --first='startup_NUC1xx.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\lst\Smpl_ADC_Joystick.map" -o .\obj\Smpl_ADC_Joystick.axf

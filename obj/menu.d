@@ -1,0 +1,17 @@
+.\obj\menu.o: menu.c
+.\obj\menu.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\menu.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\menu.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\menu.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\menu.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\menu.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\menu.o: ..\..\..\Include\System\SysInfra.h
+.\obj\menu.o: ..\..\..\Include\System\ModuleID.h
+.\obj\menu.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\menu.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\menu.o: ..\..\..\Include\Driver\DrvUART.h
+.\obj\menu.o: D:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\obj\menu.o: ..\..\..\Include\Driver\DrvADC.h
+.\obj\menu.o: Driver_I2C.h
+.\obj\menu.o: LCM1602_I2C.h
+.\obj\menu.o: MPU6050.h

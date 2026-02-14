@@ -1,0 +1,12 @@
+.\obj\smpl_i2c_lcm.o: Smpl_I2C_LCM.c
+.\obj\smpl_i2c_lcm.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\smpl_i2c_lcm.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\Include\System\SysInfra.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\Include\System\ModuleID.h
+.\obj\smpl_i2c_lcm.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\smpl_i2c_lcm.o: Driver_I2C.h
+.\obj\smpl_i2c_lcm.o: LCM1602_I2C.h

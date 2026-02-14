@@ -1,0 +1,11 @@
+.\obj\lcm1602_i2c.o: LCM1602_I2C.c
+.\obj\lcm1602_i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\lcm1602_i2c.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\lcm1602_i2c.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\lcm1602_i2c.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\lcm1602_i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\lcm1602_i2c.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\lcm1602_i2c.o: ..\..\..\Include\System\SysInfra.h
+.\obj\lcm1602_i2c.o: ..\..\..\Include\System\ModuleID.h
+.\obj\lcm1602_i2c.o: Driver_I2C.h
+.\obj\lcm1602_i2c.o: LCM1602_I2C.h
